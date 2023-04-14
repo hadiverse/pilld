@@ -3,7 +3,7 @@
 #include <Wire.h>                 //this library included to could use I2C interface with LCD
 #include <LiquidCrystal_I2C.h>    //this library included to work on LCD which depend on I2C interface in transmitting and receiving data
 
-
+//me
 #define SD_ChipSelectPin   8     //define chip selected pin of SD card module 
 
 #define pin1  3                   //these are the Arduino pins that we use to activate coils 1-4 of the stepper motor
